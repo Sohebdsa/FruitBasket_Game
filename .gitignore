@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Unused duplicate images (keep the optimised _1 variants)
+images/chocolate.png
+images/soda.png
+images/pizzaSlice.png
+images/heart.png
+images/apple.jpg
+images/banana.jpg
+images/basket.jpg
+images/broccoli.jpg
+images/burger.jpg
+images/carrot.jpg
+images/donut.jpg
+images/fries.jpg
+images/grapes.jpg
+images/orange.jpg
+images/strawberry.jpg
+images/watermelon.jpg
