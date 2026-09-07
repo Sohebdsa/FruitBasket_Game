@@ -1,4 +1,3 @@
-
 (function () {
     const canvas = document.getElementById('game');
     const ctx = canvas.getContext('2d');
@@ -39,6 +38,7 @@
         ctx.fillStyle = 'rgba(255,255,255,0.5)'; ctx.fill();
     }
 
+    
     function drawBanana(ctx, s) {
         const l = s * 1.15;
         ctx.save(); ctx.rotate(0.15);
